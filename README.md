@@ -1,0 +1,1 @@
+# Semi-automated-self-checkout-system
